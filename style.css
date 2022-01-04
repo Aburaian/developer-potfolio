@@ -55,6 +55,7 @@ h2{
     margin-right: 5%;
     box-shadow: 10px 10px 40px grey;
     padding: 30px;
+    border-radius: 10px;
 }
 #web-border-color{
     border-left: 7px solid;
